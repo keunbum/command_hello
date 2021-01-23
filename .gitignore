@@ -1,14 +1,9 @@
-*.class
-*.exe
 *.txt
 in*
 out*
 ans*
 err*
-.git
 *.sh
-topcoder
-goorm.*
 
 # Created by https://www.toptal.com/developers/gitignore/api/linux,c,c++,java,kotlin,python,delphi,freepascal,git,windows,intellij,ruby,swift
 # Edit at https://www.toptal.com/developers/gitignore?templates=linux,c,c++,java,kotlin,python,delphi,freepascal,git,windows,intellij,ruby,swift
